@@ -72,5 +72,6 @@ Real- time notifications
 
 # Author
 Ekjot Kaur
-Honours Bachelor's of Technology (BSD) student
+
+Honours Bachelor's of Technology (BSD) student-
 Seneca Polytechnic
