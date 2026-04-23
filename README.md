@@ -34,9 +34,9 @@ cd classroom_it_support
 python -m venv venv
 
 ## 3. Activate Virtual Environment
-# Windows
+Windows
 venv\Scripts\activate
-# Mac/ Linux
+Mac/ Linux
 source venv/bin/activate
 
 ## 4. Install Dependencies
